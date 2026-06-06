@@ -1,3 +1,5 @@
+import { WHATSAPP_URL } from '../constants/contact'
+
 function MenuIcon() {
   return (
     <svg
@@ -62,7 +64,7 @@ export default function Navbar() {
               MineTrace
             </a>
             <a
-              href="https://wa.me/34604380094"
+              href={WHATSAPP_URL}
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gold text-black px-6 py-2.5 rounded-sm font-medium hover:bg-gold-hover transition-colors"
