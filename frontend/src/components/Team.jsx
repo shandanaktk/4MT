@@ -53,7 +53,7 @@ const teamMembers = [
     name: 'Manuel Pérez Sánchez',
     role: 'Director de Operaciones',
     location: 'España',
-    photo: '/manuel.png',
+    photo: '/manuel.jpeg',
   },
   {
     testId: 'team-member-2',
