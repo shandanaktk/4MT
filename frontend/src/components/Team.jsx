@@ -95,7 +95,7 @@ export default function Team() {
     <section
       id="equipo"
       data-testid="team-section"
-      className="py-24 md:py-32 bg-surface"
+      className="py-24 md:py-32 bg-background"
     >
       <div className="max-w-7xl mx-auto px-6 md:px-12">
         <div className="text-center mb-16">
